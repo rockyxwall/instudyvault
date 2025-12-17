@@ -1,3 +1,6 @@
+---
+title: English Grammer
+---
 # Letter
 Vowel = a, e, i, o, u
 Special Vowel = y
@@ -132,7 +135,7 @@ The subject is hidden and is always you.
 # Subject & Predicate `d6`
 
 ```mermaid
-flowchart TD
+flowchart
     A["<span style='color:orange;'>He</span> <span style='color:green;'>sings a song</span> <span style='color:red;'>well</span>"]
     A --> B["<span style='color:orange;'>Subject</span>"]
     A --> C["<span style='color:green;'>Predicate</span>"]
